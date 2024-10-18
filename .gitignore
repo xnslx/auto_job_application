@@ -157,6 +157,6 @@ venv.bak/
 mono_crash.*
 
 /generated_cv
-data_folder/secrets.yaml
-data_folder/plain_text_resume.yaml
-data_folder/config.yaml
+secrets.yaml
+plain_text_resume.yaml
+config.yaml
